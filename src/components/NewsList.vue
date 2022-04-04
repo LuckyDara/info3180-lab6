@@ -71,13 +71,13 @@
     width: 100% !important;
 }
 .news__item{
-    width: 30% !important;
+    width: 350px !important;
     
 }
 .card{
     border-style: none;
     border-bottom: 3px solid lightseagreen;
-    height: 500px;
+    height: 600px;
     margin-bottom: 10%;
     box-shadow: 0px -3px 10px 3px rgb(196, 196, 196);
 }
